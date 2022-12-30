@@ -4,7 +4,7 @@
 ## Conteúdos exercitados
 - Encapsulamento e modificadores de acesso (público, privado e protegido)
 - Associação entre classes
-- Enum
+- Enumerações
 - Herança
 - Casting
 - Membros estáticos
