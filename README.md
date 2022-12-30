@@ -1,4 +1,4 @@
-# :chess_pawn: | Chess
+# :chess_pawn:Chess
 > Sistema de xadrez
 
 <img src="https://media.tenor.com/qMcB37_W5eYAAAAd/limusa-cat-playing-chess.gif" width=280 align='right'>
