@@ -2,7 +2,7 @@
 > Sistema de xadrez
 
 ## Conteúdos exercitados
-- Encapsulamento e modificadores de acesso público, privado e protegido
+- Encapsulamento e modificadores de acesso (público, privado e protegido)
 - Associação entre classes
 - Uso de matriz
 - Enum
